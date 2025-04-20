@@ -52,6 +52,8 @@ Mobile
 - CSS Grid
 - [Tailwindcss](https://tailwindcss.com/)
 - [Vite](https://vite.dev)
+- Github Pages
+- Github Actions
 
 ## Author
 
